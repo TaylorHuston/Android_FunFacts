@@ -1,0 +1,10 @@
+com.taylorhuston.funfacts.BuildConfig
+com.taylorhuston.funfacts.R
+com.taylorhuston.funfacts.R$attr
+com.taylorhuston.funfacts.R$dimen
+com.taylorhuston.funfacts.R$drawable
+com.taylorhuston.funfacts.R$id
+com.taylorhuston.funfacts.R$layout
+com.taylorhuston.funfacts.R$menu
+com.taylorhuston.funfacts.R$string
+com.taylorhuston.funfacts.R$style

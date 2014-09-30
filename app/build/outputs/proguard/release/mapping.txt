@@ -1,0 +1,19 @@
+com.taylorhuston.funfacts.ColorWheel -> com.taylorhuston.funfacts.a:
+    java.lang.String[] mColors -> a
+com.taylorhuston.funfacts.FactBook -> com.taylorhuston.funfacts.b:
+    java.lang.String[] mFacts -> a
+com.taylorhuston.funfacts.FunFactsActivity -> com.taylorhuston.funfacts.FunFactsActivity:
+    java.lang.String TAG -> a
+    com.taylorhuston.funfacts.FactBook mFactBook -> b
+    com.taylorhuston.funfacts.ColorWheel mColorWheel -> c
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    com.taylorhuston.funfacts.FactBook access$000(com.taylorhuston.funfacts.FunFactsActivity) -> a
+    com.taylorhuston.funfacts.ColorWheel access$100(com.taylorhuston.funfacts.FunFactsActivity) -> b
+com.taylorhuston.funfacts.FunFactsActivity$1 -> com.taylorhuston.funfacts.c:
+    android.widget.TextView val$factLabel -> a
+    android.widget.RelativeLayout val$relLayout -> b
+    android.widget.Button val$showFactButton -> c
+    com.taylorhuston.funfacts.FunFactsActivity this$0 -> d
+    void onClick(android.view.View) -> onClick
