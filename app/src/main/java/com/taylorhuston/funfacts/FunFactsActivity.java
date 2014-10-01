@@ -2,6 +2,7 @@ package com.taylorhuston.funfacts;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -42,7 +43,7 @@ public class FunFactsActivity extends Activity {
         showFactButton.setOnClickListener(listener);
 
        //Toast.makeText(this, "This is a toast, it is delicious", Toast.LENGTH_LONG).show();
-       //Log.d(TAG, "Log from onCreate() method");
+       Log.d(TAG, "Log from onCreate() method");
     }
 
 
